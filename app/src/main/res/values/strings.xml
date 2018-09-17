@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ads</string>
+
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-2474045897548968~9201696007</string>
+    <string name="banner_home_footer">ca-app-pub-2474045897548968/8654190655</string>
+    <string name="interstitial_full_screen">ca-app-pub-2474045897548968/3833819256</string>
+    <string name="rewarded_video">ca-app-pub-2474045897548968/1763023835</string>
+</resources>

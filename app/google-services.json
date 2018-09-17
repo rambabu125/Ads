@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "836618068999",
+    "firebase_url": "https://myautodeals-c99bc.firebaseio.com",
+    "project_id": "myautodeals-c99bc",
+    "storage_bucket": "myautodeals-c99bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836618068999:android:2693e52ca2f58e57",
+        "android_client_info": {
+          "package_name": "com.myautodeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836618068999-11a58dqenqpq528kb6sai2ur5rmo27o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myautodeals",
+            "certificate_hash": "db96ce9401593807081f2651d542488b13a4fcb2"
+          }
+        },
+        {
+          "client_id": "836618068999-54saidhd3qaj0hkpqghrat4r5b5aps7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumiE9IwdPKWdSYiLjvopB_ZUnUT87ekI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836618068999-54saidhd3qaj0hkpqghrat4r5b5aps7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836618068999:android:d1379cc571efc07b",
+        "android_client_info": {
+          "package_name": "com.ramtech.ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836618068999-deq06chv3gqeat44o3iiu7otnnv6m19c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramtech.ads",
+            "certificate_hash": "e49fdccb9ad55dcd6a4764e0748429af0a000acf"
+          }
+        },
+        {
+          "client_id": "836618068999-54saidhd3qaj0hkpqghrat4r5b5aps7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumiE9IwdPKWdSYiLjvopB_ZUnUT87ekI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836618068999-54saidhd3qaj0hkpqghrat4r5b5aps7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2474045897548968~9201696007"
+    }
+  ],
+  "configuration_version": "1"
+}
